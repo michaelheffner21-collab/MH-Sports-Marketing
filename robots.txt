@@ -1,0 +1,5 @@
+# Alle Suchmaschinen und KI-Crawler (z. B. GPTBot, ClaudeBot, PerplexityBot, Google-Extended) sind ausdrücklich erlaubt.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.mh-sportsmarketing.de/sitemap.xml
